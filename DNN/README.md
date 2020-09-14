@@ -1,6 +1,6 @@
 ## Deep Neural Network
 ##### DNN is the helper class for building a neural network model. 
-####It contains following functions:
+#### It contains following functions:
 * Sigmoid Function
 * Relu Function
 * Initialize parameters
